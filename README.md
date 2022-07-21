@@ -8,7 +8,7 @@ Present temperature and temperature's simple moving average as follows:
 
 ### Data source
 
-[meteo.ru](//meteo.ru/data/162-temperature-precipitation)
+[meteo.ru](http://meteo.ru/data/162-temperature-precipitation)
 
 ### Getting started
 
